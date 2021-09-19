@@ -12,8 +12,8 @@
   
 ---
   
-#### Meu único projeto funcional (até agora!) é uma <a href="http://quadradopearson.netlify.app" target=blank>simples calculadora de Quadrado de Pearson</a>. Contém alguns bugs e está um pouco abandonada, mas irei retomar o projeto quando tiver mais conhecimento.
-
+## <a href="http://zoocalc.netlify.app" target=_blank>Zoocalc</a>
+Meu primeiro projeto. Estou tentando atualizar quando posso, quando tenho novas ideias ou quando adquiro mais conhecimento!
 
 
 
