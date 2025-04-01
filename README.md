@@ -1,5 +1,13 @@
 ## Olá, sou Eduardo Cordeiro
-<p align="center">Desenvolvedor fullstack com foco em backend. Trabalhei durante 2.5 anos em projetos React, NestJS, Express. Atualmente aprendendo Java!</p>
+<p align="center">Desenvolvedor fullstack com foco em backend. Trabalhei durante 2.5 anos em projetos React, NestJS, Express. Sempre disposto a aprender novas tecnologias!</p>
+
+## Tech Stacks
+Algumas das tecnologias/linguagens que mais tenho experiência.<br>
+<img src="./assets/ts.svg" width=32 alt="Typescript"><img src="./assets/js.svg" width=32 alt="JavaScript">
+<img src="./assets/postgres.svg" width=32 alt="PostgreSQL"><img src="./assets/react.svg" width=32 alt="ReactJS">
+<img src="./assets/linux.svg" width=32 alt="Linux"><img src="./assets/nest.svg" width=32 alt="NestJS">
+<img src="./assets/prisma.jpeg" width=32 alt="Prisma ORM">
+
 
 ---
 
@@ -10,6 +18,5 @@
   
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=agez0s&theme=tokyonight&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 
